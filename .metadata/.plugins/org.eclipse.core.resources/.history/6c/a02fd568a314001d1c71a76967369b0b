@@ -1,0 +1,42 @@
+package com.springcore;
+
+
+
+
+
+
+
+public class Employee {
+
+
+
+ private int eno;
+
+
+
+ public int getEno() {
+
+
+
+ return eno;
+
+
+
+ }
+
+
+
+ public void setEno(int eno) {
+
+
+
+ this.eno = eno;
+
+
+
+ }
+
+
+
+}
+

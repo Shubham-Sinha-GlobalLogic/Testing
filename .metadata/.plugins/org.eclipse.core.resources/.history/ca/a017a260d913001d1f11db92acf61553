@@ -1,0 +1,13 @@
+package com.java;
+
+import com.java.Printable;
+
+public class A implements Printable{
+
+  public void print() {
+
+    System.out.println("hello a");
+
+  }
+
+}
